@@ -1,4 +1,4 @@
-module github.com/breadchris/gosseract/v2
+module github.com/breadchris/gosseract
 
 go 1.18
 
